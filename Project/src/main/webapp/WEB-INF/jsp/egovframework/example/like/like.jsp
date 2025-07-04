@@ -12,6 +12,7 @@
             color: gray; /* 좋아요 안 한 상태 (빈 하트) */
         }
    // wd[dkapk
+//  gfsjkfodskf
         #likeButton.liked {
             color: red; /* 좋아요 한 상태 (빨간 하트) */
         }
